@@ -26,3 +26,15 @@ C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\AxInte
 C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.csproj.ResolveComReference.cache
 C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.exe
 C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.pdb
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\videochatsample.exe
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\videochatsample.pdb
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\FrameWork.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\FrameWork.pdb
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.csprojResolveAssemblyReference.cache
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.ChatForm.resources
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.LoginForm.resources
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.csproj.GenerateResource.Cache
