@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "videochatsample", "videochatsample.csproj", "{5695D70E-6058-456A-B02C-DC587A779968}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client.csproj", "{5695D70E-6058-456A-B02C-DC587A779968}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatterServer", "..\Server\ChatterServer.csproj", "{ED3ECBFD-B4FE-4FF7-896A-8DFDED607001}"
 EndProject

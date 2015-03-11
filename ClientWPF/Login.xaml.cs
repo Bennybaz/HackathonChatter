@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using ClientWPF.Utiity;
 
 namespace ClientWPF
 {
@@ -29,6 +30,8 @@ namespace ClientWPF
             this.lstUsers.Items.Add("Roy Atsmonn");
             this.lstUsers.Items.Add("Benny Bazumnik");
             this.lstUsers.Items.Add("Adi Chernitsky");
+
+            RealSenseHandler.Instace.Start();
         }
 
         private void btnSignIn_Click(object sender, RoutedEventArgs e)

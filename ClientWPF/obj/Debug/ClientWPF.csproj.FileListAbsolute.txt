@@ -15,3 +15,5 @@ C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\ClientWPF\obj\Debug\ClientW
 C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\ClientWPF\obj\Debug\ClientWPF.csproj.GenerateResource.Cache
 C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\ClientWPF\obj\Debug\ClientWPF.exe
 C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\ClientWPF\obj\Debug\ClientWPF.pdb
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\ClientWPF\obj\Debug\ClientWPF_Content.g.cs
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\ClientWPF\bin\Debug\libpxcclr.cs.dll
