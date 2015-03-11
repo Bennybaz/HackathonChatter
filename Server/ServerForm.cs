@@ -41,7 +41,6 @@ namespace WindowsFormsApplication1
         private void axVideoChatServer1_ClientConnected(object sender, AxVideoChatServerLib._DVideoChatServerEvents_ClientConnectedEvent e)
         {
             string strUserID;
-            string strListID;
             
             strUserID = e.iUserID.ToString();
             

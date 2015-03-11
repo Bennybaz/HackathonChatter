@@ -8,6 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("lib/libpxcclr.cs.dll")]
+=======
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/arrow%20left.jpg")]
+>>>>>>> ac15a2e2cd1a088aee07d584f30ca1a6e49012db
 
 
